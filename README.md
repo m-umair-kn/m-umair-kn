@@ -61,8 +61,8 @@ I am a dedicated Full Stack Developer with expertise in designing and developing
 ---
 
 ## 📫 Connect With Me
-- GitHub: [m-umair-kn](https://github.com/m-umair-kn)
 - LinkedIn: [Muhammad Umair](https://www.linkedin.com/in/m-umair-kn/)
+- GitHub: [m-umair-kn](https://github.com/m-umair-kn)
 - Email: *(m.umair.kn@gmail.com)*
 
 ---
