@@ -52,6 +52,18 @@ I am a dedicated Full Stack Developer with expertise in designing and developing
 
 ---
 
+## 📊 GitHub Stats
+![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-umair-kn&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-umair-kn&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+![Umair's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-umair-kn&theme=radical)
+
+---
+
 ## 🌟 Highlights
 - Developed **real-time task management systems** with live updates.
 - Integrated **Cloudinary DAM** for efficient media handling.
@@ -68,3 +80,6 @@ I am a dedicated Full Stack Developer with expertise in designing and developing
 ---
 
 ⭐️ From [m-umair-kn](https://github.com/m-umair-kn)
+
+
+
