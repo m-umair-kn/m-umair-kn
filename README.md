@@ -1,16 +1,70 @@
 ## Hi there 👋
 
-<!--
-**M-Umair-Kn/M-Umair-KN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 I'm Muhammad Umair
 
-Here are some ideas to get you started:
+**Full Stack Web Application Developer**  
+Passionate about building scalable, real-time, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=m-umair-kn&color=blue&style=flat)
+
+---
+
+## 🚀 About Me
+I am a dedicated Full Stack Developer with expertise in designing and developing modern web applications. My focus is on creating seamless user experiences, robust backend systems, and integrating real-time communication features. I thrive on solving complex problems and delivering efficient solutions.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+- **Frontend Development**
+  - React.js, Next.js
+  - HTML5, CSS3, TailwindCSS, Bootstrap
+  - Responsive UI/UX design
+
+- **Backend Development**
+  - Node.js, Express.js
+  - REST APIs & GraphQL
+  - Real-time communication with **Socket.IO & WebSockets**
+
+- **Database Management**
+  - MongoDB, PostgreSQL, MySQL
+  - Database design & optimization
+
+- **DevOps & Tools**
+  - Git & GitHub
+  - Docker & CI/CD pipelines
+  - Cloudinary (media asset management)
+
+- **Other Skills**
+  - Authentication & Authorization (JWT, OAuth)
+  - Payment Gateway Integration
+  - Agile Development & Collaboration
+
+---
+
+## 📌 Recent Work
+- **Taskora Project Suite**
+  - **Taskora Admin** – Admin dashboard for managing users, tasks, and workflows.
+  - **Taskora Backend** – RESTful APIs with secure authentication and scalable architecture.
+  - **Taskora Freelancer** – Platform for freelancers to manage tasks and collaborate.
+
+- **Real-Time Chat Applications**
+  - Built multiple chat apps using **Node.js + Socket.IO**, enabling instant messaging and live chat rooms.
+
+---
+
+## 🌟 Highlights
+- Developed **real-time task management systems** with live updates.
+- Integrated **Cloudinary DAM** for efficient media handling.
+- Designed **scalable backend APIs** supporting multi-role authentication.
+- Hands-on experience with **real-time communication protocols**.
+
+---
+
+## 📫 Connect With Me
+- GitHub: [m-umair-kn](https://github.com/m-umair-kn)
+- LinkedIn: [Muhammad Umair Khan](#) *([Add your LinkedIn link here](https://www.linkedin.com/in/m-umair-kn/))*
+- Email: *(m.umair.kn@gmail.com)*
+
+---
+
+⭐️ From [m-umair-kn](https://github.com/m-umair-kn)
