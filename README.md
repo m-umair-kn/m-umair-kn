@@ -7,7 +7,7 @@ Passionate about building scalable, real-time, and user-friendly web application
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m-umair-kn&color=blue&style=flat)
 
----
+![Full Stack](./assets/Full-Stack-Development.png)
 
 ## 🚀 About Me
 I am a dedicated Full Stack Developer with expertise in designing and developing modern web applications. My focus is on creating seamless user experiences, robust backend systems, and integrating real-time communication features. I thrive on solving complex problems and delivering efficient solutions.
