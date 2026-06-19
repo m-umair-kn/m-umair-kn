@@ -9,6 +9,10 @@ Passionate about building scalable, real-time, and user-friendly web application
 
 ![Full Stack](./assets/Full-Stack-Development.png)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail" >
+</p>
+
 ## 🚀 About Me
 I am a dedicated Full Stack Developer with expertise in designing and developing modern web applications. My focus is on creating seamless user experiences, robust backend systems, and integrating real-time communication features. I thrive on solving complex problems and delivering efficient solutions.
 
