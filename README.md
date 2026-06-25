@@ -73,7 +73,7 @@ I am a dedicated Full Stack Developer with expertise in designing and developing
 
 ---
 
-⭐️ From [M. Umair](https://github.com/mumairdotdev)
+⭐️ From Muhammad Umair
 
 
 
